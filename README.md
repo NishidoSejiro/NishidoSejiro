@@ -1,18 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nishido Sejiro!
-========================================================================================================================================
+Добрый день! 👋 My name is Nishido Sejiro!
+=========================================================================================
 
-Student
--------
+Студент группы БИС-4-25
+-----
 
-Умные мысли преследуют меня, но никак догнать не могут (c.)
+Умные мысли преследуют меня, но никак догнать не могут (с.)
 
-* 🌍  I'm based in Bishkek
-* 🖥️  See my portfolio at [NishidoSejiro](http://t.me/Kochkorov_Bayel)
-* ✉️  You can contact me at [kkizyaku@gmail.com](mailto:kkizyaku@gmail.com)
-* 🚀  I'm currently working on [Поиском мотивации встать к первой паре](http://avn.kstu.kg/)
-* 🧠  I'm currently learning Как не ловить Java.NoClassDefFoundError по жизни
-* 👥  I'm looking to collaborate on Прогулах неинтересных пар
-* 💬  Ask me about Мой код работает так же стабильно, как мой провайдер О!
+* 💻 Написать мне можно по следующей ссылке: [NishidoSejiro](https://t.me/Kochkorov_Bayel)
+* 🚀 В последнее время занят [поиском мотивации вставать в 8 утра](http://kstu.kg)
+* 🧠 Интересно узнать, как не ловить Java.NoClassDefFoundError по жизни
+* 👥 Был бы рад прогулам неинтересных пар
+* ⚡ Запомните: Мой код работает так же стабильно, как 4G от О! во время грозы
 <!--
 **NishidoSejiro/NishidoSejiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
